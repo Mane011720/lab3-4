@@ -1,0 +1,10 @@
+
+table {
+    border-style: solid;
+}
+td {
+    border-style: solid;
+}
+tr:hover {
+    background-color: aqua;
+}
